@@ -42,11 +42,11 @@ The function which is used to recognize HyperEye codes from Java.
 	
 ### Import
 
-Abstract class HyperEyeDecoder is located in the com.square_nest.hypereyedecodelib package.
+Abstract class HyperEyeDecoder is located in the com.winkk.hypereyedecodelib package.
 Import of the class:
 
 ```
-import com.square_nest.hypereyedecodelib.HyperEyeDecoder;
+import com.winkk.hypereyedecodelib.HyperEyeDecoder;
 ```
 
 ### Usage

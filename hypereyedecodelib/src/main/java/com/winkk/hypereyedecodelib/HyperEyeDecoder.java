@@ -1,4 +1,4 @@
-package com.square_nest.hypereyedecodelib;
+package com.winkk.hypereyedecodelib;
 
 public abstract class HyperEyeDecoder {
 
